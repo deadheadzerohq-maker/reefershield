@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+supabase
+web3
+reportlab
+qrcode
+Pillow
